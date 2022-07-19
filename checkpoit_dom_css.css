@@ -1,0 +1,43 @@
+#delete, #all, #all2
+{
+	display: flex;
+	text-align: center;
+}
+
+#quantiter, #quantiter2
+{
+	padding-top: 100px;
+}
+
+#like, #like2
+{
+	border-radius: 10px/10px;
+	border-style: none;
+}
+
+.supr
+{
+	width: 80px;
+	border-radius: 10px/10px;
+}
+
+body
+{
+	font-family: comic sans MS;
+}
+
+#shoes
+{
+	width: 170px;
+	height: 184px;
+}
+
+#all2
+{
+	padding-top: 100px;
+}
+
+footer
+{
+	padding-top: 100px;
+}
